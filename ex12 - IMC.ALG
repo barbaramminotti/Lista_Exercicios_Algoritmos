@@ -13,4 +13,6 @@ Inicio
    Senao
       Escreva("Voce nao esta na faixa de peso ideal")
    Fimse
+   
+   // Nao executava o "senao" por causa da indentacao errada.
 Fimalgoritmo

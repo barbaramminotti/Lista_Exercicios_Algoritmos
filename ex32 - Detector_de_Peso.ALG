@@ -3,6 +3,7 @@ Var
    i : inteiro
    n, pesado : caractere
    p, maior : real
+
 Procedimento Topo()
 Inicio
    LimpaTela
@@ -11,6 +12,7 @@ Inicio
    Escreval("     Maior Peso ate agora:", maior, "Kg ")
    Escreval("------------------------------------")
 FimProcedimento
+
 Inicio
    Topo()
    Para i <- 1 ate 5 faca

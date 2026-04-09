@@ -6,9 +6,9 @@ inicio
    retorne a + b
 FimFuncao
 Inicio
-   Escreva("Digite um numero: ")
+   Escreva("Digite o primeiro valor: ")
    Leia(x)
-   Escreva("Digite um numero: ")
+   Escreva("Digite o segundo valor: ")
    Leia(y)
    s <- Soma(x, y)
    EscrevaL(x, " +", y, " =", s)
